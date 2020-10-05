@@ -1,6 +1,6 @@
 class HelloJava{
 public static void main(string args[]){
-system.out.printlin("I am your java program.Thank you !!!");
+system.out.printlin("I am your javatest program  program.Thank you !!!");
 }
 }
 
